@@ -62,5 +62,5 @@ if(count($premio)!= 0){
 }
 $rep = $objTorneo->darGanadores("Futbol");
 print_r($rep);
-//echo $objTorneo;
+echo $objTorneo;
 ?>
